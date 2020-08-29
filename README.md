@@ -1,4 +1,4 @@
-# Equipo TU_EQUIPO
+# Equipo RICRUST-19
 
 Aquí deberás escribir toda la información de tu proyecto.
 
