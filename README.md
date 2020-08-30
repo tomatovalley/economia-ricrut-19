@@ -1,6 +1,6 @@
 # Equipo Ricrut-19
 
-Profesionalizando estudiantes, integrando profesionistas y proyectando el sector comercial
+Profesionalizando estudiantes, integrando profesionistas y proyectando el sector comercial.
 
 ## Proyecto
 
