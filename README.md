@@ -10,6 +10,14 @@ De acuerdo con información del Instituto Nacional de Estadística y Geografía 
 ### Solución propuesta
 Ricrut-19 tiene la visión de ser una de las vertientes principales de la reactivación económica en el sector comercial en México y Latinoamérica, cumpliendo con la misión de conectar a negocios y empresas tanto locales como nacionales con estudiantes o profesionistas recién egresados del sector tecnológico que aún no consiguen empleo por su falta de experiencia, porque necesitan un ingreso extra o forman parte de las personas que perdieron su empleo.
 
+## Tecnologías y herramientas
+
+- PHP (Wordpress 5.5.)
+- Heroku (Hosting)
+- Remotemysql (base de datos mysql remota)
+- Sublime Text (Editor de código)
+- Adobe XD (Software de diseño de experiencia de usuario e interfaces)
+
 ## Créditos
 
 ### Equipo Ricrut-19
