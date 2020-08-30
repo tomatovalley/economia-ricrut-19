@@ -19,7 +19,6 @@ Ricrut-19 tiene la visión de ser una de las vertientes principales de la reacti
 ### Licencias
 - WordPress - Web publishing software
 
-Licencia del proyecto [MIT](LICENSE)
+Licencia del proyecto: [MIT](LICENSE)
 
 ![Student gif](https://media.giphy.com/media/9P56GiCDX2sGBZToJS/giphy.gif)
-Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
