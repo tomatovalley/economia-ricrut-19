@@ -4,6 +4,8 @@ Profesionalizando estudiantes, integrando profesionistas y proyectando el sector
 
 ## Proyecto
 
+[Diseño](https://xd.adobe.com/view/be0b09e6-9748-45b1-aa11-0eb000112e1a-eb58/)
+
 ### Problemática
 De acuerdo con información del Instituto Nacional de Estadística y Geografía (Inegi), la economía mexicana sufrió una caída anual de 18.7% en el segundo trimestre del año, a consecuencia del confinamiento por Covid-19, además es importante analizar que la mayor parte de los empleos que se han perdido son en el sector comercial, cuya estructura es la principal fuente de empleos a nivel local.
 
